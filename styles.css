@@ -1,0 +1,28 @@
+table{
+    border: 0cm;
+     padding:0 ;
+    width: 100%;
+    align-items: center;
+}
+hr{
+    color: black;
+    width: 100px;
+}
+img{
+    background-color: black;
+    
+}
+.Explantion{
+    border: 0cm;
+    padding:0 ;
+   width: 100%;
+   align-items: center;
+   background-color:black ;
+}
+b{
+    color: white;
+    text-decoration: none;
+    padding: 0cm;
+    
+}
+
